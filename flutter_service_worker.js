@@ -20,8 +20,8 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"index.html": "bac5ef570023e489f366cbfb32a0fa3e",
-"/": "bac5ef570023e489f366cbfb32a0fa3e"
+"index.html": "9f5a0a8c956760a0e2edd97fcbfd6b7c",
+"/": "9f5a0a8c956760a0e2edd97fcbfd6b7c"
 };
 
 // The application shell files that are downloaded before a service worker can
